@@ -2,6 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #FFFDB7
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -122,4 +123,12 @@ body {
   .col-sm-2 {
     width: 16.66666667%;
   }
+}
+
+/*Cambiamos estilo de tabla*/
+table td{
+  background-color: #FFF8F8;
+  border-style: solid;
+  border-color: grey;
+  border-width: 1;
 }
